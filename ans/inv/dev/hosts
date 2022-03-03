@@ -8,3 +8,6 @@ dnsip=8.8.8.8
 ansible_python_interpreter=/usr/bin/python3
 ansible_ssh_pass=alta3
 
+[professors]
+farnsworth  ansible_host=10.10.2.6 ansible_user=farnsworth
+
